@@ -49,8 +49,8 @@ function startTime()
                   return i;
 
             }
-		var name = prompt("","黄仁鑫");
-		var mm = prompt("","202136090116");
+		var name = prompt(黄仁鑫);
+		var mm = prompt(202136090116);
 		
 		}
 //		document.write("<p style='color: red;'>"+name+"</p>")
