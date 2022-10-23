@@ -36,19 +36,7 @@ function startTime()
 
 
 
-            function checkTime(i)
-
-            {
-
-                if (i<10){
-
-                    i="0" + i;
-
-                }
-
-                  return i;
-
-            }
+          
 		var name = prompt(黄仁鑫);
 		var mm = prompt(202136090116);
 		
