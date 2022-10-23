@@ -36,9 +36,21 @@ function startTime()
 
 
 
-          
-		var name = prompt(黄仁鑫);
-		var mm = prompt(202136090116);
+            function checkTime(i)
+
+            {
+
+                if (i<10){
+
+                    i="0" + i;
+
+                }
+
+                  return i;
+
+            }
+		var name = prompt("","黄仁鑫");
+		var mm = prompt("","202136090116");
 		
 		}
 //		document.write("<p style='color: red;'>"+name+"</p>")
